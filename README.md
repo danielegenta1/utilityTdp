@@ -14,6 +14,10 @@ fonte: https://elite.polito.it/teaching/current-courses/164-03fyz-tecn-progr?sta
   - porta 3306
   - user e pw di MySql
 - Connector MySql: https://dev.mysql.com/downloads/connector/j/
+- Hikari CP: - https://brettwooldridge.github.io/HikariCP/
+             - (da github, mi serve il jar) 
+                https://search.maven.org/search?q=com.zaxxer.hikaricp
+                https://www.slf4j.org
 
 - scene builder: http://gluonhq.com/open-source/scene-builder/
 
