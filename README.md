@@ -10,9 +10,9 @@ fonte: https://elite.polito.it/teaching/current-courses/164-03fyz-tecn-progr?sta
   verificare se già installato, se si scarica connector equivalente
 - Client sql: https://www.heidisql.com
   configurazione?
-  -localhost 127.0.0.1
-  -porta 3306
-  -user e pw di MySql
+  - localhost 127.0.0.1
+  - porta 3306
+  - user e pw di MySql
 - Connector MySql: https://dev.mysql.com/downloads/connector/j/
 
 - scene builder: http://gluonhq.com/open-source/scene-builder/
