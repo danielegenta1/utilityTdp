@@ -20,5 +20,6 @@ fonte: https://elite.polito.it/teaching/current-courses/164-03fyz-tecn-progr?sta
                 https://www.slf4j.org
 
 - scene builder: http://gluonhq.com/open-source/scene-builder/
+- https://jgrapht.org
 
 prova con lab05 anagrammi, importare db
